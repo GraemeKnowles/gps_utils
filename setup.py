@@ -16,7 +16,7 @@ setup(
     author='Graeme Knowles',  # Optional
     keywords='GPS, Almanac, Ephemeris',  # Optional
     packages=find_packages(),  # Required
-    python_requires='>=3.0, <4',
+    python_requires='>=3.5, <4',
     install_requires=['requests'],  # Optional
     project_urls={  # Optional
         'Bug Reports': 'https://github.com/GraemeKnowles/gps_utils/issues',
