@@ -1,1 +1,1 @@
-gps_utils
+Functions for retrieving gps setup data.
